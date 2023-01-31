@@ -1,13 +1,11 @@
-### Hi there 👋
-This is how you do it
 
 # TARE'S PROJECT
 The quick brown fox jumps over the lazy dog
 ## AUTHORS
-[Tare Kenny](https://github.com/TareKenny)
++ [@TareKenny](https://github.com/TareKenny)
 
 ## SAMPLE CODE
-printf("Hello World");
+printf('Hello World');
 
 <!--
 **TareKenny/TareKenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
