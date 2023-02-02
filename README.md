@@ -7,6 +7,9 @@ The quick brown fox jumps over the lazy dog
 ## SAMPLE CODE
 printf('Hello World');
 
+## HOW TO INSTALL 
++ Step 1: Download the zip file or use git clone
+
 <!--
 **TareKenny/TareKenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
